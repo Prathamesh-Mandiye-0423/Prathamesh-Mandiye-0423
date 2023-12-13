@@ -1,5 +1,5 @@
 ### Prathamesh-Mandiye-0423 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Prathamesh Mandiye</h1>
 <h3 align="center">Hello There! I am Prathamesh Mandiye, a Computer Science and Engineering undergraduate at the National Institute Of Technology, Durgapur.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
