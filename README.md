@@ -1,22 +1,15 @@
-### Prathamesh-Mandiye-0423 
-
-<h1 align="center">Hi 👋, I'm Prathamesh Mandiye</h1>
-<h3 align="center">Hello There! I am Prathamesh Mandiye, a Computer Science and Engineering undergraduate at the National Institute Of Technology, Durgapur.</h3>
+<h1 align="left">Hi there👋,I'm Prathamesh Mandiye</h1>
+<!--h3 align="center">👋 Hello There! I am Prathamesh Mandiye, a Computer Science and Engineering undergraduate at the National Institute Of Technology, Durgapur.</h3-->
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-mandiye-0423&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-mandiye-0423" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-mandiye-0423&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-mandiye-0423" /> </p-->
+<h3 align="left">About me</h3>
+ Hello There! I am Prathamesh Mandiye, a Computer Science and Engineering undergraduate at the National Institute Of Technology, Durgapur.My journey into the world of computer science started with a burning curiosity to understand algorithms and their applications. From there, I've delved into various realms within the field, constantly seeking to broaden my knowledge.I'm keen on exploring innovative solutions, building robust systems, and staying updated with the latest advancements in the field.
 
-Hello There! I am Prathamesh Mandiye, a Computer Science and Engineering undergraduate at the National Institute Of Technology, Durgapur.
+ <h3 align="left">Connect with me:</h3>
 
-With a solid foundation In theoretical concepts, I'm on a mission to jazz up the ever-evolving realms of computer science and data engineering with my unique, game-changing ideas. Let's add some sizzle to the tech scene!
-
-I have striven hard to give form to challenging projects using my growing knowledge in Python, C++, C and more.  I am still an entrant in this industry, but my love for challenges helps me give life to cutting-edge tech solutions.As an aspiring computer scientist
-
- 📫 How to reach me
-- **mandiyeprathamesh@gmail.com**
-- **https://www.linkedin.com/in/prathamesh-mandiye/**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/prathamesh-mandiye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-mandiye" height="30" width="40" /></a>
+<a href="https://kaggle.com/prathamesh mandiye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathamesh mandiye" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ptms0423" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ptms0423" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ptms2304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ptms2304" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ptms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ptms" height="30" width="40" /></a>
